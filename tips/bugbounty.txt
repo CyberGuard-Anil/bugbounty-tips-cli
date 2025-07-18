@@ -1,0 +1,5 @@
+Always check for subdomain takeover using tools like subzy or subjack.
+Look for parameter pollution in complex URLs, especially on e-commerce sites.
+Try injecting in uncommon headers like X-Forwarded-Host.
+Check robots.txt and sitemap.xml for hidden endpoints.
+Test for open redirect using double URL encoding.

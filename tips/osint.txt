@@ -1,0 +1,5 @@
+Use crt.sh to find subdomains using certificate transparency logs.
+Try using Google Dorks like inurl:admin site:target.com.
+Use the Wayback Machine (archive.org) to find old endpoints.
+Sherlock tool helps find usernames across social platforms.
+Use Hunter.io for company-wide email enumeration.

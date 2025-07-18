@@ -1,0 +1,6 @@
+Subfinder – Passive subdomain enumeration.
+Nuclei – Fast vulnerability scanner using templates.
+Naabu – Fast port scanner by ProjectDiscovery.
+GF (grep patterns) – For extracting potential vulnerable params.
+Dnsx – DNS resolution tool that works well with large lists.
+

@@ -1,0 +1,6 @@
+Combine Amass + Subfinder for more accurate subdomain discovery.
+Use httpx to probe live HTTP services from subdomain list.
+Use dirsearch or ffuf with common wordlists to find hidden directories.
+Nmap with scripts (-sC) gives fast & useful default scan results.
+Run WhatWeb or Wappalyzer CLI to identify technologies.
+
