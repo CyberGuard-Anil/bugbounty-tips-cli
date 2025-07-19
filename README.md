@@ -23,14 +23,16 @@
 ```bash
 $ ./tips.sh bugbounty
 
-🔥 [Bug Bounty Tip #12]
+ [Bug Bounty Tip #12]
 Always verify rate limits manually. Don’t rely only on tools.
 
 $ ./tips.sh random
 
-🎯 [Random Tip - OSINT]
+ [Random Tip - OSINT]
 Use hunter.io and email-format.com to enumerate emails for phishing setups.
 ```
+<img width="933" height="152" alt="image" src="https://github.com/user-attachments/assets/c0457a55-74b0-4c6e-b7f8-a5bd72691f85" />
+
 
 
 Installation
