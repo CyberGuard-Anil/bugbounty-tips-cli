@@ -71,6 +71,7 @@ bugbounty-tips-cli/
 ```
 Each file contains one tip per line.
 
+
 ✍️ Add Your Own Tips
 
 To add your own hacking wisdom:
@@ -79,6 +80,7 @@ To add your own hacking wisdom:
 3. Save the file. That’s it!
 
 The script will automatically pull it next time you run it.
+
 
 ❓ Troubleshooting
 
@@ -89,12 +91,14 @@ Try adding the script to your $PATH using symlink:
 ```
 sudo ln -s /full/path/to/tips.sh /usr/local/bin/bugtip
 ```
+
 🎓 Educational Purpose
 
 This tool is part of a Bash scripting course focused on cybersecurity automation. It teaches:
 - File handling in Bash
 - CLI arguments & randomization
 - Real-world automation use cases
+
 
 🤝 Contributions Welcome
 
@@ -103,16 +107,20 @@ Wanna share cool tips or tricks?
 - Add to .txt files under tips/
 - Submit a PR
 
+
 👨‍💻 Author
 
 Made with ❤️ by Cyber Guard x Anil Yadav
 Part of the Bug Bounty Bash Series 💻💣
 
+
 📜 License
 
 MIT License – Use it, modify it, share it freely.
 
+
 💡 Bonus: Daily Hacker Tip in Terminal
+
 
 Add this to your .bashrc to see a tip every time you open terminal:
 ```
