@@ -30,13 +30,16 @@ $ ./tips.sh random
 
 🎯 [Random Tip - OSINT]
 Use hunter.io and email-format.com to enumerate emails for phishing setups.
+```
 
 
 Installation
-
+```bash
 git clone https://github.com/your-username/bugbounty-tips-cli.git
 cd bugbounty-tips-cli
 chmod +x tips.sh
-
+```
 Usage
+```
 ./tips.sh [category]
+```
